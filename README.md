@@ -237,3 +237,7 @@ El desarrollo futuro de datasets más amplios y modelos más robustos podría pe
 - Google Colab  
 - Visión por computador  
 - Aprendizaje profundo
+  ## Material complementario
+
+### Mini-informe del proyecto
+[Ver informe en PDF](docs/Mini_informe_yolo.pdf)
