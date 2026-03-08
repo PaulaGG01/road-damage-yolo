@@ -223,3 +223,11 @@ Para mejorar el desempeño del modelo se podrían implementar las siguientes mej
 Este proyecto demuestra la viabilidad de utilizar **modelos de detección de objetos basados en deep learning para identificar daños en pavimentos**. Aunque se trata de un prototipo inicial, los resultados muestran el potencial de estas tecnologías para apoyar sistemas de inspección automatizada en infraestructura vial dentro del sector AECO.
 
 El desarrollo futuro de datasets más amplios y modelos más robustos podría permitir implementar soluciones reales para monitoreo inteligente de carreteras.
+
+## Gobernanza y consideraciones éticas
+
+Este proyecto incluye un análisis de gobernanza y riesgos asociado al uso de modelos de visión computacional.
+
+Para más detalles ver:
+
+[Checklist de gobernanza del proyecto](docs/governance_checklist.md)
